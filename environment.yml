@@ -1,0 +1,10 @@
+name: auto_codebook
+channels:
+  - conda-forge
+dependencies:
+  - instructor=1.14.5
+  - jupyterlab=4.5.3
+  - jupyterlab-spellchecker=0.8.4
+  - langchain-ollama=1.0.1
+  - python=3.12
+  - pydantic=2.12.5
