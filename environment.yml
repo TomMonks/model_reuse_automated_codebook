@@ -8,3 +8,5 @@ dependencies:
   - langchain-ollama=1.0.1
   - python=3.12
   - pydantic=2.12.5
+  - pip:
+    - langchain-text-splitters==1.1.1
